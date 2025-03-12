@@ -46,4 +46,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/amogus/pterodactyl-yolks:java_${{ matrix.tag }}
+            ghcr.io/amogusreal69/pterodactyl-yolks:java_${{ matrix.tag }}
